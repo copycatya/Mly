@@ -38,3 +38,4 @@ public class OracleJdbcTest
         test.fetch();
     }
 }
+
